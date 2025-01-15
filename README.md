@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&repeat=false&width=550&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-With over 25 years of experience, specializing in 🔒 **cybersecurity**, **cloud architecture**, and **AI-powered security solutions**, I love using technology to solve real-world challenges. 🚀
+Specializing in 🔒 cybersecurity, cloud architecture, and AI-powered security solutions, I thrive on using technology to solve real-world challenges—because who doesn't love a good puzzle? 🚀
 
 - 🔭 I’m currently working on helping customers leverage AI to augment and enhance their security and compliance operations.
 <!--
