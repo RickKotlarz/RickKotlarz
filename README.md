@@ -1,4 +1,4 @@
-## Hi there 👋 👨‍💻 Rick Kotlarz | Senior Technology Specialist @ Microsoft
+## Hi there 👨‍💻 Rick Kotlarz | Senior Technology Specialist @ Microsoft
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&repeat=false&width=550&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
