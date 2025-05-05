@@ -1,11 +1,11 @@
 ## Hi there 👨‍💻 Rick Kotlarz | Senior Technology Specialist @ Microsoft
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&repeat=false&width=550&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
-
-Specializing in 🔒 cybersecurity, cloud architecture, and AI-powered security solutions, I thrive on using technology to solve real-world challenges—because who doesn't love a good puzzle? 🚀
+Specializing in 🔒 cybersecurity, cloud architecture, and AI-powered security solutions, I thrive on using technology to solve real-world challenges because who doesn't love a good puzzle? 🚀
 
 - 🔭 I’m currently working on helping customers leverage AI to augment and enhance their security and compliance operations.
+
 <!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&repeat=false&width=550&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 **RickKotlarz/RickKotlarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
