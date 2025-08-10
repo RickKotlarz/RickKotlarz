@@ -1,4 +1,4 @@
-## Hi there 👨‍💻 Rick Kotlarz | Senior Technology Specialist @ Microsoft
+## Hi there 👨‍💻 Rick Kotlarz | Senior Soultion Engineer @ Microsoft
 
 Specializing in 🔒 cybersecurity, cloud architecture, and AI-powered security solutions, I enjoy tackling real-world challenges because who doesn’t love a good puzzle? 🚀
 
