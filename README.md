@@ -1,17 +1,15 @@
 ## Hi there 👨‍💻 Rick Kotlarz | Senior Soultion Engineer @ Microsoft
 
-Specializing in 🔒 cybersecurity, cloud architecture, and AI-powered security solutions, I enjoy tackling real-world challenges because who doesn’t love a good puzzle? 🚀
+Specializing in cybersecurity, cloud architecture, and AI-powered security solutions. I help customers leverage AI to enhance their security, IT, and compliance operations. 
 
-🔭 I help customers leverage AI to enhance their security, IT, and compliance operations.
-
-Connect over LinkedIn: [https://www.linkedin.com/in/rick-kotlarz/](https://www.linkedin.com/in/rick-kotlarz/)
+[https://www.linkedin.com/in/rick-kotlarz/](https://www.linkedin.com/in/rick-kotlarz/)
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&repeat=false&width=550&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 **RickKotlarz/RickKotlarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+🔒 🚀
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
