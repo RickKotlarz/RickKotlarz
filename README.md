@@ -1,4 +1,4 @@
-## Hi there 👨‍💻 Rick Kotlarz | Senior Soultion Engineer @ Microsoft
+## Hi there 👨‍💻 Rick Kotlarz 
 
 Specializing in cybersecurity, cloud architecture, and AI-powered security solutions. I help customers leverage AI to enhance their security, IT, and compliance operations. 
 
