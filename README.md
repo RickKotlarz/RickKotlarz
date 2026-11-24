@@ -1,8 +1,8 @@
-## Hi there 👨‍💻 Rick Kotlarz 
+## 👨‍💻 About Me
 
-Specializing in cybersecurity, cloud architecture, and AI-powered security solutions. I help customers leverage AI to enhance their security, IT, and compliance operations. 
+Senior Customer Engineer at [TENEX.AI](https://github.com/TenexRick/),  helping customers strengthen their security operations by pairing AI-driven detection with expert-led Managed, Detection, and Response (MDR).
 
-[https://www.linkedin.com/in/rick-kotlarz/](https://www.linkedin.com/in/rick-kotlarz/)
+Part of my job is translating slideware into what the platform actually does and explaining the inner workings of our AI-MDR security stack to anyone who'll listen. The rest is working with Forward Deployment Engineers, Customer Success, and the wider team to get customers onboarded and actually seeing value. I'm always open to making new connections so don't be shy, let's connect on [LinkedIn](https://www.linkedin.com/in/rick-kotlarz/).
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&repeat=false&width=550&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
